@@ -1,0 +1,45 @@
+
+<html>
+    <head>
+        <link rel="stylesheet" href="parralax.css">
+    </head>
+    <header>
+        <nav>
+          <ul>
+            <li><a>WINE</a</li>
+            <li><a>RAKIA</a></li>
+            <li><a></h1>VODKA</a></li>
+            <li><h1>SILVER STATE SPIRITS</h1></li>
+            <li><a href="#story">OUR STORY</a></li>
+            <li><a href="#soil">OUR SOIL</a></li>
+            <li><a href="#products">OUR PRODUCTS</a></li>
+          </ul>
+        </nav>
+      </header>
+      
+      <main id="main">
+        <div id="home" class="box1"></div>
+        <div id="story" class="box2">
+          <div style="text-align: center; padding: 5vh 40vh 5vh 40vh;">
+              <h1>Our Story</h1>
+                <p>As a family-owned business based in Las Vegas, Nevada, our mission at Silver State Spirits is to cultivate Bulgaria’s rich history of winemaking by offering a wide selection of wine, rakia, and vodka with flavors renowned and unique to the country.</p>
+          </div>  
+         </div>
+        <div class="box3"></div>
+        <div id="soil" class="box4">
+          <div style="text-align: center; padding: 5vh 40vh 5vh 40vh;">
+            <h1>Our Soil</h1>
+              <p>The name comes from the Russian terms for black and soil, earth or land (chorny + zemlya). The soil, rich in organic matter presenting a black color, was first identified by Russian geologist Vasily Dokuchaev in 1883 in the tallgrass steppe or prairie of European Russia.</br></p>
+          </div>
+        </div>  
+       <div class="box5"></div>
+       <div id="products" class="box6">
+          <div style="text-align: center; padding: 5vh 40vh 5vh 40vh;">
+            <h1>Our Products</h1>
+              <p>Being a diverse country with many regions and a melting pot of different cultures, Silver State Spirits imports a variety of premium beverages sourced from some of the best vineyards and most famous distilling regions in Bulgaria.<br>Start exploring our selection of WINE, RAKIA, and VODKA</br></p>
+        </div>
+      </div>
+    <div class="box7"></div>
+     </div>
+      </main>
+</html>
